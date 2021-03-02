@@ -1,0 +1,5 @@
+baseURL: https://stuart-warren.github.io/countdownsidebar/
+languageCode: en-us
+title: CountdownSidebar
+theme: 
+- github.com/nodejh/hugo-theme-mini
